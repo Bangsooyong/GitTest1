@@ -8,6 +8,8 @@ public class AppMain {
         
         System.out.println("HELLO. GITHUB03~");
         System.out.println("새로운 기능 추가?");
+        
+        System.out.println("나도 버그 수정...");
 	}
 
 }
