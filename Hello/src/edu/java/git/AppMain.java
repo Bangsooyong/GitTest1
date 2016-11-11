@@ -5,9 +5,12 @@ public class AppMain {
 	public static void main(String[] args) {
 		System.out.println("HELLO. Git~!!");
 		System.out.println("HELLO. GitHub!!~");
-        
+   
         System.out.println("HELLO. GITHUB03~");
-        System.out.println("»õ·Î¿î ±â´É Ãß°¡?");
+        System.out.println("Â»ÃµÂ·ÃŽÂ¿Ã® Â±Ã¢Â´Ã‰ ÃƒÃŸÂ°Â¡?");
+        
+        System.out.println("bug fix");
+        
 	}
 
 }
