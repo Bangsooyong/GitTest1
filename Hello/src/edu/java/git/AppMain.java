@@ -7,6 +7,7 @@ public class AppMain {
 		System.out.println("HELLO. GITHUB02~");
         
         System.out.println("HELLO. GITHUB03~");
+        System.out.println("새로운 기능 추가?");
 	}
 
 }
